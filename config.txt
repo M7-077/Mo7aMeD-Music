@@ -1,0 +1,6 @@
+owner=462949947680096257
+prefix=-
+game=Mo7aMeD <3 Bilel | -play
+stayinchannel=true
+songinstatus=false
+token=NTQyNjY0NjU4MDg4MjMwOTEz.XQFDgQ.h2pW23MY1t0dLtKPuTvb_khrzBo
